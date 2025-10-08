@@ -1,2 +1,6 @@
 # iperera000
-Hi there !! 👋💬 I'm a Computer Science student and aspiring Front-End Developer. 🧠 Currently learning HTML, CSS, JavaScript, and Python. 🔧 Building beginner-friendly websites to improve my coding skills and understand responsive design.
+👋 Hi there! I’m Ishini Perera, an aspiring Data and AI Engineer with a passion for transforming raw data into powerful insights and intelligent systems.
+🌱 Currently learning: 🐍 Python for data manipulation and automation
+                        🧮 Pandas, NumPy, SQL for data analysis and preprocessing
+                        🤖 Machine Learning
+💼 Open to: Collaborations, internships, and exciting AI-driven projects.
